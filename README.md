@@ -20,4 +20,6 @@ This program written in python will demonstrate the concept:
 https://colab.research.google.com/drive/1GJp-M1w6kOfAhIQtUVYA9vGStf6HkESw?usp=sharing
 
 ## Get Started
-Fork this repository.
+Fork this repository on github.
+
+Read the Politics Cubed Whitepaper : https://sustainableexpansionproject.wordpress.com/2022/02/22/politics-cubed-concept-for-a-dapp/
