@@ -18,3 +18,6 @@ Hopefully, this can provide a better understanding of politics and general, help
 
 This program written in python will demonstrate the concept:
 https://colab.research.google.com/drive/1GJp-M1w6kOfAhIQtUVYA9vGStf6HkESw?usp=sharing
+
+## Get Started
+Fork this repository.
