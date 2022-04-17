@@ -47,9 +47,9 @@ These are some things that need contributions:
 3) Form a DAO that can ultimately assume management of Politics Cubed repository.
 4) Develop new data visualizations and other ideas.
 5) Make a database of issues divided into as many positions as possible per the Nine Positions Model(Left-Left, Center-Left, Right-Left,
-6) Left-Center, Center-Center, Right-Center, Left-Right, Center-Right, Right-Right).
-7) Fix typos and make content editing.
-8) Investigate and integrate existing related respositories into Politics Cubed.
-9) Develop a working app to test the Politics Cubed concepts.
-10) Promote the repository.
-11) Develop a way to fund Politics Cubed.
+Left-Center, Center-Center, Right-Center, Left-Right, Center-Right, Right-Right).
+6) Fix typos and make content editing.
+7) Investigate and integrate existing related respositories into Politics Cubed.
+8) Develop a working app to test the Politics Cubed concepts.
+9) Promote the repository.
+10) Develop a way to fund Politics Cubed.
