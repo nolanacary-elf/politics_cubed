@@ -1,0 +1,101 @@
+initialize App
+
+class User:
+    create_profile()
+    set_issue_positions()
+    set_governing_system()
+    set_political_disposition()
+    invite_friends()
+    compare_results_with_friends()
+    define_issue()
+    define_positions_on_issue()
+    share_issue_with_friends()
+
+class Issue:
+    set_issue_name()
+    set_number_of_positions()
+    set_positions_descriptions()
+
+class NewsFeed:
+    curate_content_based_on_user_preferences()
+    allow_user_to_filter_feed()
+
+class VotingAndPolls:
+    create_polls_on_issues()
+    participate_in_polls()
+    display_poll_results()
+
+class EducationalResources:
+    provide_articles()
+    provide_videos()
+    provide_podcasts()
+
+class PoliticalMaps:
+    display_local_map()
+    display_regional_map()
+    display_global_map()
+
+class MessagingAndForums:
+    send_private_messages()
+    create_discussion_forum()
+    participate_in_forum()
+
+class GamificationAndRewards:
+    create_challenges()
+    complete_challenges()
+    earn_badges_and_rewards()
+
+class CalendarAndEvents:
+    create_event()
+    discover_events()
+    join_event()
+
+main():
+    user = User()
+    user.create_profile()
+    user.set_issue_positions()
+    user.set_governing_system()
+    user.set_political_disposition()
+
+    issue = Issue()
+    user.define_issue(issue)
+    user.define_positions_on_issue(issue)
+    user.share_issue_with_friends(issue)
+
+    news_feed = NewsFeed()
+    news_feed.curate_content_based_on_user_preferences()
+
+    voting_and_polls = VotingAndPolls()
+    voting_and_polls.create_polls_on_issues()
+    voting_and_polls.participate_in_polls()
+
+    educational_resources = EducationalResources()
+    educational_resources.provide_articles()
+    educational_resources.provide_videos()
+    educational_resources.provide_podcasts()
+
+    political_maps = PoliticalMaps()
+    political_maps.display_local_map()
+    political_maps.display_regional_map()
+    political_maps.display_global_map()
+
+    messaging_and_forums = MessagingAndForums()
+    messaging_and_forums.send_private_messages()
+    messaging_and_forums.create_discussion_forum()
+    messaging_and_forums.participate_in_forum()
+
+    gamification_and_rewards = GamificationAndRewards()
+    gamification_and_rewards.create_challenges()
+    gamification_and_rewards.complete_challenges()
+    gamification_and_rewards.earn_badges_and_rewards()
+
+    calendar_and_events = CalendarAndEvents()
+    calendar_and_events.create_event()
+    calendar_and_events.discover_events()
+    calendar_and_events.join_event()
+
+    user.invite_friends()
+    user.compare_results_with_friends()
+
+run App
+
